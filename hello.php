@@ -17,5 +17,10 @@ class hello
     {
         echo "Hooray!!! Now we are able to contribute on open source";
     }
+	
+	function test()
+	{
+		echo "test message";
+	}
 
 }
